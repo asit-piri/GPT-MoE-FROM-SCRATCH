@@ -1,4 +1,4 @@
-# LLM from Scratch — Hands-On Curriculum (PyTorch)
+# GPT MoE from Scratch using PyTorch
 
 ## Part 0 — Foundations & Mindset
 - **0.1** Understanding the high-level LLM training pipeline (pretraining → finetuning → alignment)
